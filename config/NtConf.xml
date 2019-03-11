@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<scenario>
+    <seed>69</seed>
+    <duration>3</duration>
+    <values>100</values>
+    <node number="1">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="2">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="3">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="4">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="5">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="6">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="7">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="8">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="9">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <node number="10">
+        <rate>1000000</rate>
+        <coverage>17</coverage>
+        <xPosition>17</xPosition>
+        <yPosition>17</yPosition>
+        <AC>0</AC>
+        <source id="1" type="generic">
+            <pktLngth>8000</pktLngth>
+            <pktDist>c</pktDist>
+            <intArrTime>8</intArrTime>
+            <intArrDstr>c</intArrDstr>
+        </source>
+    </node>
+    <nodes>10</nodes>
+    <mixNodes>0</mixNodes>
+    <phyLayer>s</phyLayer>
+    <RTSThr>999999</RTSThr>
+    <ctsToSelf>n</ctsToSelf>
+    <EDCA>
+        <cwMinFact0>1</cwMinFact0>
+        <cwMinFact1>2</cwMinFact1>
+        <cwMinFact2>4</cwMinFact2>
+        <cwMinFact3>8</cwMinFact3>
+        <cwMaxFact0>1</cwMaxFact0>
+        <cwMaxFact1>4</cwMaxFact1>
+        <cwMaxFact2>8</cwMaxFact2>
+        <cwMaxFact3>16</cwMaxFact3>
+        <aifs0>2</aifs0>
+        <aifs1>2</aifs1>
+        <aifs2>1</aifs2>
+        <aifs3>1</aifs3>
+    </EDCA>
+    <resultsPath>C:\Users\ayienga\Desktop\pamvotis\pamvotis\.</resultsPath>
+    <outResults>_</outResults>
+</scenario>
